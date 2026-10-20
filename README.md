@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**estevao-barbosa/estevao-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, me chamo Estêvão
 
-Here are some ideas to get you started:
+Graduando em Administração (UVV), construindo carreira em BI e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- Estudando e praticando SQL, Power BI e Python
+- Tenho experiência com gestão de contratos
+- Moro em Vila Velha/ES
+
+## Ferramentas
+SQL | Power BI | Excel | Python
+
+## Projetos
+Veja os repositórios fixados logo abaixo.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/est%C3%AAv%C3%A3o-barbosa-513ab0266/
