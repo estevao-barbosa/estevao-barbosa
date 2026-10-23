@@ -15,4 +15,4 @@ SQL | Power BI | Excel | Python
 Veja os repositórios fixados logo abaixo.
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/est%C3%AAv%C3%A3o-barbosa-513ab0266/
+- LinkedIn: https://www.linkedin.com/in/estevao-tannus-barbosa
